@@ -1,0 +1,8 @@
+button {
+  width: 20%;
+  height: 80%;
+  grid-area: 3/1/4/3;
+  justify-self: center;
+  align-self: center;
+  border-radius: 20px;
+}
